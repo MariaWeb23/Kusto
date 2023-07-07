@@ -10,7 +10,7 @@
     margin-top: 30px;
     margin-left: 100px;
     margin-right: 100px;
-    margin-bottom: auto;
+    margin-bottom: 50px;
 }
 
 .header {
@@ -30,6 +30,7 @@
 }
 
 .profile {
+    padding-bottom: 10px;
     color:white;
     margin-bottom: 50px;
     width: 880px;
