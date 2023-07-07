@@ -30,30 +30,32 @@
 }
 
 .profile {
+    
     padding-bottom: 10px;
     color:white;
     margin-bottom: 50px;
     width: 880px;
     height: 120px;
 }
+
     .intro-title {
         color: white;
-        width: 294px;
+        width: 284px;
         height: 39px;
-        top: 181px;
+        top: 281px;
         left: 350px;
         margin-left: 150px;
-        margin: 0 px;
+        margin-block-start: -95px;
         
           
     }
     .intro-subtitle {
         color:white;
         width: 336px;
-        height: 18px;
         top: 236px;
         left: 350px;
         margin-left: 150px;
+        margin-top: -30px;
         
 
     }
