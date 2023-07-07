@@ -28,15 +28,12 @@
 .header_lang {
     color: white
 }
-.div class {
+
+.profile {
     color:white;
     margin-bottom: 50px;
     width: 880px;
-    height: 120px
-    
-}
-.profile {
-    margin-bottom: 30px;
+    height: 120px;
 }
     .intro-title {
         color: white;
@@ -44,6 +41,8 @@
         height: 39px;
         top: 181px;
         left: 350px;
+        margin-left: 150px;
+        margin: 0 px;
         
           
     }
@@ -53,6 +52,7 @@
         height: 18px;
         top: 236px;
         left: 350px;
+        margin-left: 150px;
         
 
     }
