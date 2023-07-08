@@ -40,14 +40,14 @@
 
     .intro-title {
         color: white;
-        width: 284px;
+        width: 286px;
         height: 39px;
         top: 281px;
         left: 350px;
         margin-left: 150px;
         margin-block-start: -95px;
+        margin-block-end: 40px;
         
-          
     }
     .intro-subtitle {
         color:white;
@@ -55,9 +55,12 @@
         top: 236px;
         left: 350px;
         margin-left: 150px;
-        margin-top: -30px;
-        
+        margin-top: -50px;
+        margin-block-end: -15px;
 
     }
+
+    
+
 
 
