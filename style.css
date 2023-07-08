@@ -29,6 +29,14 @@
     color: white
 }
 
+.lead {
+    width: 880px;
+    height: 120px;
+    top: 159px;
+    left: 200px;
+
+}
+
 .profile {
     
     padding-bottom: 10px;
@@ -44,7 +52,7 @@
         height: 39px;
         top: 281px;
         left: 350px;
-        margin-left: 150px;
+        margin-left: 200px;
         margin-block-start: -95px;
         margin-block-end: 40px;
         
@@ -54,7 +62,7 @@
         width: 336px;
         top: 236px;
         left: 350px;
-        margin-left: 150px;
+        margin-left: 200px;
         margin-top: -50px;
         margin-block-end: -15px;
 
