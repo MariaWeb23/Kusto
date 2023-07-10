@@ -56,24 +56,24 @@
 
     .intro-title {
         color: white;
-        width: 168px;
+        width: 268px;
         height: 39px;
         top: 281px;
-        left: 350px;
+        left: 300px;
         margin-left: 200px;
-        margin-block-start: -95px;
-        margin-block-end: 66px;
+        margin-block-start: -96px;
+        margin-block-end: 100px;
         font-family: 'Inter', sans-serif;
                   
     }
     .intro-subtitle {
         color:white;
-        width: 168px;
+        width: 268px;
         top: 236px;
         left: 350px;
         margin-left: 200px;
-        margin-top: -58px;
-        margin-block-end: -26px;
+        margin-top: -82px;
+        margin-block-end: -30px;
         font-family: 'Inter', sans-serif;
 
     }
