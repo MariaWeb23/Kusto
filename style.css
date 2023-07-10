@@ -62,8 +62,9 @@
         left: 350px;
         margin-left: 200px;
         margin-block-start: -95px;
-        margin-block-end: 40px;
-        
+        margin-block-end: 50px;
+        font-family: 'Inter', sans-serif;
+                  
     }
     .intro-subtitle {
         color:white;
@@ -71,8 +72,9 @@
         top: 236px;
         left: 350px;
         margin-left: 200px;
-        margin-top: -50px;
-        margin-block-end: -15px;
+        margin-top: -54px;
+        margin-block-end: -24px;
+        font-family: 'Inter', sans-serif;
 
     }
     .photo-grid {
